@@ -1,0 +1,49 @@
+{
+    "Background": {
+        "description": "how the customer and vendor met to discuss the requirements and vendor proposed its solutions to customer",
+        "variables": [
+            "Customer name",
+            "Vendor name",
+            "Meeting time and place"
+        ]
+    },
+    "Business requirement": {
+        "description": "how the customer and vendor interacted and discussed about the needs",
+        "variables": [
+            "Customer name",
+            "Vendor name"
+        ]
+    },
+    "Proposed solution": {
+        "description": "how the vendor proposed solutions to the customer for their requirements",
+        "variables": [
+            "Customer name",
+            "Vendor name"
+        ]
+    },
+    "Timelines": {
+        "description": "the timelines discussed for the proposed solutions by the vendor",
+        "variables": [
+            "Customer name",
+            "Vendor name",
+            "Timeline dates"
+        ]
+    },
+    "Pricing": {
+        "description": "the pricing for the discussed solutions",
+        "variables": [
+            "Customer name",
+            "Vendor name",
+            "Pricing structure"
+        ]
+    },
+    "Next steps": {
+        "description": "the next steps to be performed or followed upon for successful completion",
+        "variables": [
+            "Customer name",
+            "Vendor name",
+            "Timeline dates",
+            "Pricing structure"
+        ]
+    }
+}
